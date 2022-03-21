@@ -1,0 +1,2 @@
+INSERT INTO roles VALUES (1,'ROLE_ADMIN'), (2,'ROLE_USER');
+INSERT INTO users VALUES (1,28,'spacejh1@gmail.com', 'Bogdan', '$2a$12$sUqeXCIjEcFl7g73P3UHX.CuodVfwFJgub7CCNr.EqOvIearwHsnS',1), (2,20, 'space',	'AlterEgo', '$2a$12$sHnJNbfIhuEfkRQXqzcuaOunZF3i21SAq7WK9lql/sqARWv1t0Tam',2);
